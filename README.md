@@ -14,4 +14,3 @@ Commands:
 `yarn front` - boot React frontend part on port 3000
 
 `yarn back` - boot backend on port 3030
-
